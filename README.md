@@ -22,11 +22,10 @@ I'm a passionate **Frontend Developer** who loves crafting user-friendly and vis
 - 🌐 Portfolio:www.sr.com
 
 
-## Based In -India
-##🧠I'm currently learning:
--Advanced JS
-##👯 I’m looking to collaborate on 
--Project
+### Based In -India
+### 🧠i am learning -Advanced JS and meny technologies
+### 👯 I’m looking to collaborate on -Project
+
 
 
 
