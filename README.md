@@ -21,9 +21,12 @@ I'm a passionate **Frontend Developer** who loves crafting user-friendly and vis
 - 💼 LinkedIn:www.linkedin.com/in/soma-ram-7370762665
 - 🌐 Portfolio:www.sr.com
 
-##🌍I'm based in: -India
-##🧠I'm currently learning:-Advanced JS
-##👯 I’m looking to collaborate on -Project
+##🌍I'm based in: 
+-India
+##🧠I'm currently learning:
+-Advanced JS
+##👯 I’m looking to collaborate on 
+-Project
 
 
 
