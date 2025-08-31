@@ -1,16 +1,35 @@
-# Hi there 👋
+# 💻 Hi, I'm Soma Ram!
 
 
-**somaram8244-creator/somaram8244-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** who loves crafting user-friendly and visually engaging websites. I believe in continuous learning and am always eager to explore new technologies in the world of web development.
 
-Here are some ideas to get you started:
+## 🎓 Educational Background
+- 🧑‍🎓 Completed **Diploma in Computer Science & Technology**
+- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 About Me
+- 🌐 I enjoy building responsive and accessible web applications.
+- 🌱 Currently learning: **React.js**, **TypeScript**, and **Next.js**
+- 💡 Passionate about: **Web Design**, **User Experience**, and **Performance Optimization**
+- 🛠️ Technologies I work with:
+  - HTML5, CSS3, JavaScript (ES6+)
+  - Tailwind CSS, Bootstrap
+  - Git & GitHub
+  - VS Code
+## 🔗 Connect with Me
+- 📧 Email: [somaram8244@gmai.com]
+- 💼 LinkedIn:www.linkedin.com/in/soma-ram-7370762665
+- 🌐 Portfolio:www.sr.com
+
+##🌍I'm based in: -India
+##🧠I'm currently learning:-Advanced JS
+##👯 I’m looking to collaborate on -Project
+
+
+
+Thanks for visiting my profile! 😊
+  
+  
+
+
 
