@@ -1,5 +1,6 @@
 # 💻 Hi, I'm Soma Ram!
-#🌐 Frontent Developer
+# 🌐 Frontent Developer
+
 
 
 I'm a passionate **Frontend Developer** who loves crafting user-friendly and visually engaging websites. I believe in continuous learning and am always eager to explore new technologies in the world of web development.
