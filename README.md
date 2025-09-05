@@ -1,4 +1,5 @@
-# <span style="color: #3498db;">💻 Hi, I'm Soma Ram!</span> <span style="color: #2ecc71;">🌐 Frontend Developer</span>
+#💻 Hi, I'm Soma Ram!
+🌐 Frontend Developer</span>
 
 I'm a passionate **Frontend Developer** who loves crafting user-friendly and visually engaging websites. I believe in continuous learning and am always eager to explore new technologies in the world of web development.
 
