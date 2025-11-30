@@ -19,7 +19,7 @@ I'm a passionate **Frontend Developer** who loves crafting user-friendly and vis
 ## 🔗 Connect with Me
 - 📧 Email: [somaram8244@gmai.com]
 - 💼 LinkedIn:www.linkedin.com/in/soma-ram-7370762665
-- 🌐 Portfolio:www.sr.com
+- 🌐 Portfolio:(https://devsomaram.github.io/Portfolio/)
 
 
 ### Based In -India
